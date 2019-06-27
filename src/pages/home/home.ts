@@ -11,4 +11,15 @@ export class HomePage {
 
   }
 
+  /*  ion-item pencil icon function. 
+      Please change individual function name for every pencil icon 
+  */
+  clickCM(){
+    alert("Edit icon clicked..")
+  }
+
+  uploadCam(){
+    alert("Functionality no implemented yet.")
+  }
+
 }
